@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.skill-logo{
+    color: #161617;
+    font-weight: 900;
+    font-size: 48px;
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+.user-list{
+    list-style: none;
+}
+.user{
+    color: #58585d;
+}
+.text-head{
+    color: #58585d;
+    text-rendering: optimizelegibility;
+}
+.logo{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 80px 0;
+}
+.input-text{
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #efefef;
+    padding: 12px 16px;
+    font-size: 14px;
+    transition: border-color 0.3s ease 0s;
+}
